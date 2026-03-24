@@ -1,0 +1,7 @@
+aid: massachusetts-mutual-life-insurance
+url: https://raw.githubusercontent.com/api-evangelist/massachusetts-mutual-life-insurance/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.massachusetts-mutual-life-insurance.com
