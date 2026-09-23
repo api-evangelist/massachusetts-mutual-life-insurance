@@ -1,7 +1,9 @@
 ---
 title: With recent offerings, life insurance goes high-tech
 url: https://insurancenewsnet.com/oarticle/with-recent-offerings-life-insurance-goes-high-tech
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Massachusetts Mutual Life Insurance" press release artificial intelligence'
 position: 1
 source: serpapi-google

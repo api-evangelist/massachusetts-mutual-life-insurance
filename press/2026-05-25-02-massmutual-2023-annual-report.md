@@ -1,7 +1,9 @@
 ---
 title: MassMutual 2023 Annual Report
 url: https://www.massmutual.com/global/media/shared/doc/financial-documents/annual-reports/2023_annual_report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Massachusetts Mutual Life Insurance" press release artificial intelligence'
 position: 2
 source: serpapi-google

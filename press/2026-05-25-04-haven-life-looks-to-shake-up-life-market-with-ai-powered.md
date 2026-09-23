@@ -1,7 +1,9 @@
 ---
 title: Haven Life Looks to Shake Up Life Market With AI Powered ...
 url: http://insurance-edge.net/2019/05/22/haven-life-looks-to-shake-up-life-market-with-ai-powered-online-products/
-date: '2026-05-25'
+published: '2019-05-22'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Massachusetts Mutual Life Insurance" press release artificial intelligence'
 position: 4
 source: serpapi-google
